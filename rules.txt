@@ -2,6 +2,7 @@
 
 [RegExp]
 gmail\.com/.*
+imgtec\.com/.*
 gimpshop\.com/.*
 directcreative\.com/.*
 speedpluss\.org/.*
