@@ -1,6 +1,7 @@
 #BEGIN
 
 [RegExp]
+amazonaws\.com/*
 developer\.android\.com/*
 gmail\.com/.*
 imgtec\.com/.*
