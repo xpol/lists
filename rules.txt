@@ -1,6 +1,7 @@
 #BEGIN
 
 [RegExp]
+dl\-ssl\.google\.com/*
 amazonaws\.com/*
 developer\.android\.com/*
 gmail\.com/.*
