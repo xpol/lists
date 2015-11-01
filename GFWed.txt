@@ -1,5 +1,6 @@
-[SwitchyOmega Conditions]
+#BEGIN
 
+[Wildcard]
 dl-ssl.google.com/*
 amazonaws.com/*
 developer.android.com/*
@@ -2467,3 +2468,5 @@ lookatgame.com/*
 darpa.mil/*
 wtfpeople.com/*
 1-apple.com.tw/*
+
+#END
