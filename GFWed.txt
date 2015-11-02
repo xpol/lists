@@ -72,6 +72,7 @@
 *://*.rmdown.com/*
 *://*.pinyuan001.com/*
 *://*.twitter.com/*
+*://*.twimg.com/*
 *://*.dropbox.com/*
 *://*.facebook.com/*
 *://*.fbcdn.*/*
