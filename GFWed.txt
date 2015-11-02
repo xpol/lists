@@ -37,6 +37,7 @@
 *://*.vimeo.*/*
 *://*.softlayer.*/*
 *://*.wordpress.*/*
+*://*.wp.com/*
 *://*.skype.*/*
 *://*.microsoft.*/*
 *://*.pidgin.*/*
