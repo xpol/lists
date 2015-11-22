@@ -1,7 +1,7 @@
 #BEGIN
 [Wildcard]
-*://*.logdown.com/*
-*://*.gravatar.com/*
+*://*.logdown.*/*
+*://*.gravatar.*/*
 *://*.susestudio.*/*
 *://susestudio.*/*
 *://*.novell.*/*
