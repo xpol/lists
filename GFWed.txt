@@ -1,5 +1,6 @@
 #BEGIN
 [Wildcard]
+*://*.gravatar.com/*
 *://*.susestudio.*/*
 *://susestudio.*/*
 *://*.novell.*/*
